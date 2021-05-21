@@ -1,1 +1,1 @@
-rootProject.name = "SubmissionTemplate"
+rootProject.name = "StudentTemplate"
